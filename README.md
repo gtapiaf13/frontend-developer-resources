@@ -89,6 +89,13 @@ Vamos a empezar con lo principal, cómo empezó esto de los ordenadores.
 🔗 **🏳URL**: https://www.wikiwand.com/es/Inform%C3%A1tica
 
 ---
+#### 👉❓ **¿Qué es diseño web?**
+
+Aprenderas sobre los principios del diseño web.
+
+🔗 **🏳URL**: https://webuniversal.pe
+
+---
 
 #### 👉❓ **¿Qué es Internet y cómo nació?**
 
